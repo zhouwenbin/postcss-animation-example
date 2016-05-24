@@ -1,0 +1,5 @@
+## usage
+
+```
+	npm i
+	gulp
