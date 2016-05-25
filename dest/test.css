@@ -1,5 +1,7 @@
-.foo {
-  animation-name: bounce;
+@media only screen and (min-width: 600px) {
+  .foo {
+    animation: bounce 1s;
+  }
 }
 @keyframes bounce {
   from, 20%, 53%, 80%, to {
