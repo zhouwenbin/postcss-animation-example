@@ -2,4 +2,7 @@
   .foo {
     animation: bounce 1s;
   }
+  .bar {
+    animation-name: bounce;
+  }
 }

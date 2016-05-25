@@ -2,6 +2,9 @@
   .foo {
     animation: bounce 1s;
   }
+  .bar {
+    animation-name: bounce;
+  }
 }
 @keyframes bounce {
   from, 20%, 53%, 80%, to {
